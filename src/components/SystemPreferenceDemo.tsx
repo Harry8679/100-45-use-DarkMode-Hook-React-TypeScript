@@ -11,7 +11,7 @@ const SystemPreferenceDemo = () => {
 
       <div className="space-y-6">
         {/* System Detection */}
-        <div className="p-6 bg-gradient-to-br from-green-100 to-teal-100 dark:from-green-900/20 dark:to-teal-900/20 rounded-xl">
+        <div className="p-6 bg-linear-to-br from-green-100 to-teal-100 dark:from-green-900/20 dark:to-teal-900/20 rounded-xl">
           <div className="flex items-center gap-4 mb-4">
             <div className="w-16 h-16 bg-green-500 rounded-full flex items-center justify-center text-3xl">
               💻
