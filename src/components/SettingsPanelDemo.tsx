@@ -175,7 +175,7 @@ const SettingsPanelDemo = () => {
         </div>
 
         {/* Save Settings */}
-        <button className="w-full px-6 py-4 bg-gradient-to-r from-blue-500 to-purple-600 hover:from-blue-600 hover:to-purple-700 text-white rounded-lg font-bold transition-all transform hover:scale-105">
+        <button className="w-full px-6 py-4 bg-linear-to-r from-blue-500 to-purple-600 hover:from-blue-600 hover:to-purple-700 text-white rounded-lg font-bold transition-all transform hover:scale-105">
           💾 Enregistrer les paramètres
         </button>
 
