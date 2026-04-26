@@ -136,7 +136,7 @@ const SettingsPanelDemo = () => {
         </div>
 
         {/* Current Settings Summary */}
-        <div className="p-6 bg-gradient-to-br from-blue-100 to-purple-100 dark:from-blue-900/20 dark:to-purple-900/20 rounded-xl border-2 border-blue-300 dark:border-blue-700">
+        <div className="p-6 bg-linear-to-br from-blue-100 to-purple-100 dark:from-blue-900/20 dark:to-purple-900/20 rounded-xl border-2 border-blue-300 dark:border-blue-700">
           <h4 className="font-bold text-gray-800 dark:text-white mb-4">
             Résumé des paramètres :
           </h4>
