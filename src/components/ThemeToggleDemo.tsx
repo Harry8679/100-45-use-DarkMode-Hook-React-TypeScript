@@ -33,7 +33,7 @@ const ThemeToggleDemo = () => {
 
       <div className="space-y-6">
         {/* Current Status */}
-        <div className="p-6 bg-gradient-to-br from-purple-100 to-pink-100 dark:from-purple-900/20 dark:to-pink-900/20 rounded-xl">
+        <div className="p-6 bg-linear-to-br from-purple-100 to-pink-100 dark:from-purple-900/20 dark:to-pink-900/20 rounded-xl">
           <div className="flex items-center justify-between mb-4">
             <div>
               <div className="text-sm text-gray-600 dark:text-gray-400 mb-1">
