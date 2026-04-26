@@ -77,7 +77,7 @@ const ThemePreviewDemo = () => {
         <div className="space-y-3">
           <h4 className="font-bold text-gray-800 dark:text-white">Cartes :</h4>
           <div className="grid grid-cols-2 gap-4">
-            <div className="p-4 bg-gradient-to-br from-blue-100 to-purple-100 dark:from-blue-900/20 dark:to-purple-900/20 rounded-lg border border-blue-200 dark:border-blue-800">
+            <div className="p-4 bg-linear-to-br from-blue-100 to-purple-100 dark:from-blue-900/20 dark:to-purple-900/20 rounded-lg border border-blue-200 dark:border-blue-800">
               <h5 className="font-bold text-gray-800 dark:text-white mb-2">
                 Carte Gradient
               </h5>
