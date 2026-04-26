@@ -26,7 +26,7 @@ const BasicDarkModeDemo = () => {
         {/* Toggle Button */}
         <button
           onClick={toggleTheme}
-          className="w-full px-6 py-4 bg-gradient-to-r from-blue-500 to-purple-600 hover:from-blue-600 hover:to-purple-700 text-white rounded-lg font-semibold transition-all transform hover:scale-105"
+          className="w-full px-6 py-4 bg-linear-to-r from-blue-500 to-purple-600 hover:from-blue-600 hover:to-purple-700 text-white rounded-lg font-semibold transition-all transform hover:scale-105"
         >
           <span className="flex items-center justify-center gap-3">
             <span className="text-2xl">{isDarkMode ? '☀️' : '🌙'}</span>
