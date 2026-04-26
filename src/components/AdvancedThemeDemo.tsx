@@ -51,7 +51,7 @@ const AdvancedThemeDemo = () => {
 
       <div className="space-y-6">
         {/* Current Time */}
-        <div className="p-6 bg-gradient-to-br from-indigo-100 to-purple-100 dark:from-indigo-900/20 dark:to-purple-900/20 rounded-xl text-center">
+        <div className="p-6 bg-linear-to-br from-indigo-100 to-purple-100 dark:from-indigo-900/20 dark:to-purple-900/20 rounded-xl text-center">
           <div className="text-sm text-gray-600 dark:text-gray-400 mb-2">
             Heure actuelle
           </div>
