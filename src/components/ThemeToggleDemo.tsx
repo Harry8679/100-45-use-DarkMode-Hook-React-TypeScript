@@ -60,7 +60,7 @@ const ThemeToggleDemo = () => {
               onClick={() => setTheme(t.value)}
               className={`w-full p-4 rounded-xl transition-all transform ${
                 theme === t.value
-                  ? 'bg-gradient-to-r from-blue-500 to-purple-600 text-white scale-105 shadow-lg'
+                  ? 'bg-linear-to-r from-blue-500 to-purple-600 text-white scale-105 shadow-lg'
                   : 'bg-gray-100 dark:bg-gray-700/50 text-gray-800 dark:text-white hover:bg-gray-200 dark:hover:bg-gray-700'
               }`}
             >
